@@ -1,6 +1,6 @@
 # Stone Paper Scissors Game
 
-This project is a simple implementation of the classic "Stone Paper Scissors" game using HTML, CSS, and JavaScript, all contained within a single HTML file.
+This project is a simple implementation of the classic "Stone Paper Scissors" game using HTML, CSS, and JavaScript.
 
 ## How to Play
 
