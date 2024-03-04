@@ -38,6 +38,4 @@ This project is created by Umesh Yadav.
 ## Feedback and Contributions
 
 Feedback and contributions are welcome! Feel free to submit issues, suggestions, or pull requests to improve this project.
-```
 
-Replace `[Your Name]` with your name or your preferred attribution. This README provides an overview of your project, its functionality, and how to use it. It also includes information about technologies used, credits, license, and how others can contribute to the project.
