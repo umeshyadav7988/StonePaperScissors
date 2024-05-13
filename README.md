@@ -27,10 +27,6 @@ This project is a simple implementation of the classic "Stone Paper Scissors" ga
 - Clear display of game results.
 - Option to play again without refreshing the page.
 
-## Preview
-
-You can see the preview of the game within the HTML file itself when opened in a web browser.
-
 ## Credits
 
 This project is created by Umesh Yadav.
